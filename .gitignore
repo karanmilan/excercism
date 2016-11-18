@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+GETTING_STARTED.md
+README.md
+TUTORIAL.md
+build.gradle
+build/
+gradle/
+gradlew
+gradlew.bat
